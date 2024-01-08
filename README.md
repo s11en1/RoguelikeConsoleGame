@@ -1,5 +1,11 @@
 # Roguelike Console Game C#
 
+## Game Demo
+
+![Последовательность 01 (1)](https://github.com/s11en1/RoguelikeConsoleGame/assets/132915375/29167920-6348-4f87-a3d5-c02b02381b94)
+
+---
+
  ## Components of the project
  
  <ul>
