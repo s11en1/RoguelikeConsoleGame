@@ -1,0 +1,7 @@
+C:\Projects\VS\RoguelikeFreelance\bin\Debug\RoguelikeFreelance.exe.config
+C:\Projects\VS\RoguelikeFreelance\bin\Debug\RoguelikeFreelance.exe
+C:\Projects\VS\RoguelikeFreelance\bin\Debug\RoguelikeFreelance.pdb
+C:\Projects\VS\RoguelikeFreelance\obj\Debug\RoguelikeFreelance.csproj.AssemblyReference.cache
+C:\Projects\VS\RoguelikeFreelance\obj\Debug\RoguelikeFreelance.csproj.CoreCompileInputs.cache
+C:\Projects\VS\RoguelikeFreelance\obj\Debug\RoguelikeFreelance.exe
+C:\Projects\VS\RoguelikeFreelance\obj\Debug\RoguelikeFreelance.pdb
