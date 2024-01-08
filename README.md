@@ -24,6 +24,22 @@
 
 ---
 
+## The algorithm for creating a maze
+
+> A little bit about the algorithm for creating a maze:  
+> First, the maze is filled with emptiness, after which  
+> the boundaries of the maze are set. Then we go through  
+> the "control points". A control point is some point in  
+> the maze (not the border) with even coordinates, for  
+> example [2,2], [2,4] and so on. At each such point,  
+> it is checked whether there is already a wall there,  
+> and if there is no wall, then we choose a random direction  
+> {top, bottom, left, right} and start putting walls in this  
+> direction to the nearest wall or to the maximum length of the wall.  
+> And so we go through all the checkpoints.
+
+---
+
  ## Ingame screenshots
  ![image](https://github.com/s11en1/RoguelikeConsoleGame/assets/132915375/59fe356f-ef97-4685-80ba-67b43bd0d851)  
  ![image](https://github.com/s11en1/RoguelikeConsoleGame/assets/132915375/81b54845-a1cd-48d2-b7a5-dd7b8dc29c07)  
